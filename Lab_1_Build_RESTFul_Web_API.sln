@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_1_Build_RESTFul_Web_API", "Lab_1_Build_RESTFul_Web_API\Lab_1_Build_RESTFul_Web_API.csproj", "{EA6A3E4E-B3E4-49B7-9084-826676ADB98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6A3E4E-B3E4-49B7-9084-826676ADB98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6A3E4E-B3E4-49B7-9084-826676ADB98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6A3E4E-B3E4-49B7-9084-826676ADB98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6A3E4E-B3E4-49B7-9084-826676ADB98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3237345-62CA-4DB9-8E6F-76F39FA1377B}
+	EndGlobalSection
+EndGlobal
